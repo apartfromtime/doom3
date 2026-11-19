@@ -1,0 +1,15 @@
+base
+d3xp
+build
+*.dll
+*.exe
+*.exp
+*.lib
+*.pdb
+neo/.vs
+neo/debug
+neo/_objs
+neo/release
+neo/x64
+neo/*.vcxproj.user
+neo/*/*.vcxproj.user
